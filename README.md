@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on ... Django
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... https://www.linkedin.com/in/jatinsinghchug/
+- 📫 How to reach me: ... <a href="https://www.linkedin.com/in/jatinsinghchug/">LinkedIn</a>
 - ⚡ Fun fact: ... I love coding
